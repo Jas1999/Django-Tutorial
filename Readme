@@ -1,1 +1,10 @@
+# Django Tutorial with ReactJS frontend (Ant UI kit used)
+
+Followed the tutorial in building the model and view, then added some extra features through the frontend to test all the crud functionality
+
+Resources
+Main Tutorial Followed:
 https://medium.com/@gazzaazhari/django-backend-react-frontend-basic-tutorial-6249af7964e4
+
+https://docs.djangoproject.com/en/4.0/ref/request-response/
+https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
